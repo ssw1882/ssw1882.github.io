@@ -1,0 +1,16 @@
+Links to Old Class Projects
+
+1. https://igme-202.github.io/exercises-ssw1882/exercises/Exercise02/
+	Snowman hell level/monster design with environment particles
+2. https://igme-202.github.io/exercises-ssw1882/exercises/Exercise03/
+	Randomized wandering path & perlin noise environment generation
+3. https://igme-202.github.io/exercises-ssw1882/exercises/Exercise04/
+	Mouse tracking exercise
+4. https://igme-202.github.io/exercises-ssw1882/exercises/Exercise05/
+	driving a little car around :)
+5. https://igme-202.github.io/exercises-ssw1882/exercises/Exercise06/
+	AABB vs bounding circle collisions
+6. https://igme-202.github.io/exercises-ssw1882/exercises/Exercise07/
+	applying forces via mouseclick
+7. https://igme-202.github.io/exercises-ssw1882/exercises/Exercise08/
+	earliest humans v zombies simulation, only seeking/fleeing behavior implemented
